@@ -146,5 +146,5 @@ Smart-Book-Assistant/
    - Larger Models: Experiment with larger models (e.g., BERT-large) for better accuracy.
 
 ## Contributors 👥
-   - Maithil Mishra(https://github.com/maithilmishra)
+   - [Maithil Mishra](https://github.com/maithilmishra)
 
