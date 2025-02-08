@@ -3,7 +3,6 @@
 A **Small Language Model (SLM)** that answers questions based on a book or text. Built with Python, Hugging Face Transformers, and FAISS, this project is designed to help you extract information from large texts quickly and accurately.
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
@@ -26,7 +25,6 @@ A **Small Language Model (SLM)** that answers questions based on a book or text.
    - [Evaluation](#evaluation)
 5. [Key Learnings](#key-learnings-)
 6. [Future Improvements](#future-improvements-)
-7. [License](#license-)
 
 ---
 
@@ -100,7 +98,6 @@ Smart-Book-Assistant/
 |   └── test_questions.json    # Test questions/answers
 ├── requirements.txt           # Dependencies
 ├── README.md                  # Project documentation
-└── LICENSE                    # MIT License
 ```
 ## Observations 🔍
 ### What Worked Well ✅
