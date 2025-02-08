@@ -1,4 +1,4 @@
-# Book-QA-SLM 📚❓
+# Smart Book Assistant 📚❓
 
 A **Small Language Model (SLM)** that answers questions based on a book or text. Built with Python, Hugging Face Transformers, and FAISS, this project is designed to help you extract information from large texts quickly and accurately.
 
